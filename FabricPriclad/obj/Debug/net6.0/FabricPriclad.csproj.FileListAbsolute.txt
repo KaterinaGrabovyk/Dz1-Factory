@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\FabricPriclad\bin\Debug\net6.0\FabricPriclad.exe
+C:\Users\Admin\Desktop\FabricPriclad\bin\Debug\net6.0\FabricPriclad.deps.json
+C:\Users\Admin\Desktop\FabricPriclad\bin\Debug\net6.0\FabricPriclad.runtimeconfig.json
+C:\Users\Admin\Desktop\FabricPriclad\bin\Debug\net6.0\FabricPriclad.dll
+C:\Users\Admin\Desktop\FabricPriclad\bin\Debug\net6.0\FabricPriclad.pdb
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\FabricPriclad.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\FabricPriclad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\FabricPriclad.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\FabricPriclad.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\FabricPriclad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\FabricPriclad.dll
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\refint\FabricPriclad.dll
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\FabricPriclad.pdb
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\FabricPriclad.genruntimeconfig.cache
+C:\Users\Admin\Desktop\FabricPriclad\obj\Debug\net6.0\ref\FabricPriclad.dll
